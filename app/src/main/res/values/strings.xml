@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SignIn</string>
+
+
+    <string-array name="spinnerdemo">
+        <item>Fakhar Ali </item>
+        <item>Accounts             +</item>
+        <item>fakharali054@gmail.com</item>
+
+    </string-array>
+    <string-array name="spinnerValues">
+        <item>Save to Watch later</item>
+        <item>Save to playlist</item>
+        <item>Delete</item>
+        <item>Edit</item>
+        <item>Download</item>
+        <item>Share</item>
+    </string-array>
+
+    <string-array name="watched_spinner">
+        <item>Save to playlist</item>
+        <item>Remove from Watch later</item>
+        <item>Download</item>
+        <item>Share</item>
+    </string-array>
+    <string name="title_activity_see_">see_Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
